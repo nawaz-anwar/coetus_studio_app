@@ -16,7 +16,7 @@
         android:layout_weight="1"
         android:gravity="center"
         android:text="Coetus Studio"
-        android:textSize="48sp"
+        android:textSize="46sp"
         android:textStyle="bold|italic" />
 
     <ImageView
